@@ -13,3 +13,7 @@ Before using any library in pandas, you need to import it. use the following cod
 import pandas as pd 
 
 ### note- pd is the alias name.. you can name it anything you want)
+
+## pandas_1.py
+
+the file shows how to create a dataFrame in python and then display the output
